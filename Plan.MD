@@ -1,6 +1,6 @@
-#==Phân công công việc==
+# Phân công công việc
 
-##Phần 1: 
+## Phần 1: 
 
 1. Phương : Trình bày thông tin về quy mô hoạt động công ty bao gồm từ 5
  -> 10 phòng ban có nhu cầu chia sẻ tài nguyên và máy in
@@ -14,7 +14,7 @@ trong công ty/trường học nhằm để đáp ứng cho nhu cầu hoạt
 4. Minh : Tổng hợp làm bản Mô tả hệ thống mạng 
 
 
-##Phần 2: 
+## Phần 2: 
 
 - Cả Team cùng thiết kế ( dựa trên mô tả ) và phân tích đúng sai trong bản vẽ của mỗi thành viên. 
 
